@@ -21,3 +21,13 @@ The methodology used for building the Arduino-based traffic light simulator is a
 • Test the traffic light sequence and adjust the duration of each signal as needed
 
 You can find the circuit diagram of the project here: https://www.tinkercad.com/things/aa56FCw0HRD-experiment-1
+
+You can run the code on a suitable Arduino IDE.
+To install the latest version of the Arduino IDE, you may refer to :
+#For Windows User:    
+https://www.arduino.cc/en/software
+#For Linux Users:
+Type the code 
+```bash
+yay -S arduino
+
