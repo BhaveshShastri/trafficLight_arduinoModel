@@ -1,8 +1,5 @@
 # Traffic Light Arduino Model
 
-## Aim
-An Arduino-based traffic light simulator using LEDs.
-
 ## Objectives
 1. Understand applications of traffic light simulator used in the transportation industry, urban planning, and traffic engineering.
 
